@@ -1,5 +1,4 @@
 <h1 align="center">Hi, my name is Aliki</h1>
-<h3 align="center">A passionate web developer seeking an internship or a job as a Junior Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
